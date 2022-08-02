@@ -1,4 +1,6 @@
 # DevOps-CICD-of-Bruno-Pizzeria
-Pizza hong?
+Pizza hong:
 
   docker push donnhat/hello:tagname
+
+END.
